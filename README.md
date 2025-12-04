@@ -14,4 +14,4 @@ Tekto: Purple/Violet and navy Blue because of Hydrocarbons like Methane, Ethane,
 
 Sarnus: Red accents caused by highly energized barely visible hydrogen inside the atmosphere and the predominant purple is caused by helium and molecular hydrogen as well as trace argon and ammonia
 
-Neidon: same story as Sarnus, but more s
+Neidon: same story as Sarnus, but more so
