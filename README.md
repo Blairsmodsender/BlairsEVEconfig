@@ -23,6 +23,8 @@ Eve: Purple Aurorae caused by a high amount of molecular Sulfur and CO2 inside t
 
 Laythe: Green and Blue for the Nitrogen in the Atmosphere, and yellow bands for volcanic sulfur and Sodium launched into the atmosphere as particulates.
 
+ ![Laythe_Aurora](copyimageurlfromimgur)
+ 
 Tekto: Purple/Violet and navy Blue because of Hydrocarbons like Methane, Ethane, as well as high amounts of Molecular Nitrogen inside the atmosphere.
 
 ![Tekto Aurora](https://i.imgur.com/6XiQc84.jpeg)
