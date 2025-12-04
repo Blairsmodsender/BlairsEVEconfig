@@ -1,3 +1,6 @@
 This is a config of another mod, it is provided as is for that version of the mod, as a result I recommend checking the original as EVE volumetric V5 for any bugs
+
+this mod absolutely works best if you have OPM and it's fitting OPM V5 volumetric clouds
+
 depedicies are as follows: Blackrocks EVE volumetric V5 minimum
 prefered: Scatter, TUFX, Deferred redering
