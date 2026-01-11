@@ -1,6 +1,6 @@
 # BlairsEVEConfig (Scientifically Accurate EVE Aurora) (SAEVEA) for short.
 
-This is a config of another mod named EVE Volumetrics Aurorae by jthero3, it is provided as is for that version of the mod, as a result I recommend checking the original:
+This is a config of another mod named EVE Volumetrics Aurorae by jthero3,as well as aurora textures based on textures from jthero3 and Linx. It is provided as is for that version of the mod, as a result I recommend checking the original:
 https://spacedock.info/mod/3843/EVE%20Volumetrics%20Aurorae
 
 this mod absolutely works best if you have OPM.
