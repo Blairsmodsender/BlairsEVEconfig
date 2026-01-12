@@ -19,20 +19,20 @@ The following below are some descriptions attached with images to showcase my co
 
 Eve: Purple Aurorae caused by a high amount of molecular Sulfur and CO2 inside the atmosphere.
 
-![Eve Aurora](https://i.imgur.com/k3xUQzh.jpeg)
+![Eve Aurora](https://i.imgur.com/ACOiZ7Z.png)
 
 Laythe: Green and Blue for the Nitrogen in the Atmosphere, and yellow bands for volcanic sulfur and Sodium launched into the atmosphere as particulates.
 
-![Laythe Aurora](https://i.imgur.com/xobqPVt.png)
+![Laythe Aurora](https://i.imgur.com/ha9qylQ.png)
  
 Tekto: Purple/Violet and navy Blue because of Hydrocarbons like Methane, Ethane, as well as high amounts of Molecular Nitrogen inside the atmosphere.
 
-![Tekto Aurora](https://i.imgur.com/TJ1cZjx.jpeg)
+![Tekto Aurora](https://i.imgur.com/z62AoMB.png)
 
 Sarnus: Red accents caused by highly energized barely visible hydrogen inside the atmosphere and the predominant purple is caused by helium and molecular hydrogen as well as trace argon and ammonia.
 
-![Sarnus Aurora](https://i.imgur.com/Y5rawaD.png)
+![Sarnus Aurora](https://i.imgur.com/che0q30.png)
 
 Neidon: same story as Sarnus, but more so.
 
-![NeidonAurora](https://i.imgur.com/Xyn4K9h.jpeg)
+![NeidonAurora](https://i.imgur.com/DPDRhmN.png)
