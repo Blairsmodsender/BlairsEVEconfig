@@ -36,3 +36,8 @@ Sarnus: Red accents caused by highly energized barely visible hydrogen inside th
 Neidon: same story as Sarnus, but more so.
 
 ![NeidonAurora](https://i.imgur.com/DPDRhmN.png)
+
+ The following textures are from [Astonomer's Visual Pack](https://forum.kerbalspaceprogram.com/topic/160878-112x-astronomers-visual-pack-beyond-v413-july-17th-2022/) and are redistributed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License:
+> GameData/BlairsEVEconfig/EVE/Textures/_detail/detailNoise.dds
+> GameData/BlairsEVEconfig/EVE/Textures/_detail/uvnoise1.dds
+> GameData/BlairsEVEconfig/EVE/Textures/_detail/detailAurora.dds
